@@ -1,2 +1,3 @@
 # CountingApp
-[android] thread counter android programming assignment
+2nd year winter semester moblie Programming assignment<br>
+[android] thread counter
